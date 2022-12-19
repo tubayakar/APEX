@@ -1,13 +1,12 @@
 /**
  * @description       : 
- * @author            : ChangeMeIn@UserSettingsUnder.SFDoc
+ * @author            : Tuba Yakar
  * @group             : 
  * @last modified on  : 12-19-2022
- * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
+ * @last modified by  : Tuba Yakar
 **/
 public class salaryCalculation {
 
-    //properties
     public Decimal monthlySalary;
     public Decimal salary=0;
     public Decimal totalSalary=0;
@@ -15,7 +14,6 @@ public class salaryCalculation {
     public Decimal month=0;
 
 
-    //methods
     public void addMonth(decimal howmany){
         month+=howmany;
     }
