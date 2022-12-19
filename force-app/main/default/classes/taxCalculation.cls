@@ -55,7 +55,7 @@ public class taxCalculation {
 
 /*
 
------------DEBUG LOG-----------
+-----------anonymous window-----------
 taxCalculation sep = new taxCalculation();
 sep.addHours(40);
 system.System.debug('sep working hours: '+sep.hoursMethod());

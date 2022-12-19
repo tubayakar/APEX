@@ -50,7 +50,7 @@ public class workers {
 
 /*
 
----------------DEBUG LOG----------------
+---------------anonymous window----------------
 
 workers Tuba = new workers();
 workers Alex = new workers();
