@@ -36,7 +36,7 @@ public integer totalIncome=0;
 public static integer contactsIncome=0;
 public decimal totalAdvertisement=0;
 public static decimal contactsAdvertisement=0;
-public static decimal budget=0;
+private static decimal budget=0;
 
 
 //methods
