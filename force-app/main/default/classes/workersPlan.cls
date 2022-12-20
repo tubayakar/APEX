@@ -3,12 +3,11 @@
  * @author            : Tuba Yakar
  * @group             : 
  * @last modified on  : 12-20-2022
- * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
+ * @last modified by  : Tuba Yakar
 **/
 public class workersPlan  {
     
     // INNER CLASS
-   
    public class course{
        // properties
        private String name;
@@ -24,10 +23,10 @@ public class workersPlan  {
        public String getName(){
           
            return name;
-       }
-       
+       } 
    }
    
+    
     // properties ( non static) -- Apex Class Duplication => Alex , Sergio, Osman , Niyazi .......
    private String name;  // ='Alex Victor'
    private Integer working_hours=0;  // duplicate Class....Alex hours , sergio hours ,. .. ... . 
