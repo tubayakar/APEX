@@ -22,7 +22,7 @@ public class Cars {
     }
     
     public Cars(Integer model, String color, String packet, Integer maxSpeed){
-        this();
+       // this();
         setModel(model);
         setColor(color);
         setPacket(packet);

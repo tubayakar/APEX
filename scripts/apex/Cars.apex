@@ -15,4 +15,6 @@ RangeRover.acceleration(70);
 RangeRover.breaktion(20);
 RangeRover.stop();
 
+//------------Constuctor with Parameter------------
 
+Cars Mercedes = new Cars(2022,'Black','Mercedes CLA',300);
