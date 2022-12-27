@@ -31,7 +31,6 @@ public class TestProducts {
         system.assertEquals(5500, p1.amount);           
     }    
     
-    
     @isTest
     public static void contractDateMethodtest1(){
         Integer contractDate;
