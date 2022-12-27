@@ -2,11 +2,12 @@
  * @description       : 
  * @author            : ChangeMeIn@UserSettingsUnder.SFDoc
  * @group             : 
- * @last modified on  : 12-26-2022
+ * @last modified on  : 12-27-2022
  * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
 **/
 public class Products {
     
+    public String Name;
     public Integer no;
     public Integer amount;
     private String owner;
@@ -15,6 +16,13 @@ public class Products {
     public Integer duration;
     public Integer returnTime;
     
+
+
+      
+    public String nameMethod(String Name){
+        system.debug('Product Name: '+Name);        
+        return Name;
+    }
     
     public Integer noMethod(Integer no){      
         system.debug('Product No: '+no);        

@@ -1,5 +1,6 @@
 Products p1 = new Products();
 
+p1.nameMethod('P3000');
 p1.noMethod(1);
 p1.amountMethod(3500);
 p1.ownerMethod('Tuba Yakar');
