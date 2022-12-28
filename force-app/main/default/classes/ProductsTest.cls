@@ -6,7 +6,7 @@
  * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
 **/
 @isTest
-public class TestProducts {
+public class ProductsTest {
     
     @isTest
     public static void nameMethodtest1(){      
