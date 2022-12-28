@@ -32,7 +32,14 @@ public class TestProducts {
     
     }    
     
-    
+    @isTest
+    public static void ownerMethodtest1(){      
+        
+        Products p1 = new Products();
+        p1.ownerMethod('Tuba Yakar');
+        
+    }
+      
     @isTest
     public static void contractDateMethodtest1(){
         
